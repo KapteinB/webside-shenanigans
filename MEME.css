@@ -1,0 +1,7 @@
+img {
+    width: 2500px;
+    height: 1300px;
+}
+.body {
+    background-image: -webkit-image-set("errrrrrr.gif");
+}
